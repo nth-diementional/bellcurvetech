@@ -1,2 +1,2 @@
 # bellcurvetech
-bell curve technologies repo
+bell curve technologies projects
